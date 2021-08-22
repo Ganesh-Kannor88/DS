@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 565A-04C3
+
+ Directory of C:\Users\Ganesh Kannor\Desktop\consultadd
+
+22-08-2021  15:01    <DIR>          .
+22-08-2021  15:01    <DIR>          ..
+22-08-2021  15:01                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  172,758,769,664 bytes free
